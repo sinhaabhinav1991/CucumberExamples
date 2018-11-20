@@ -6,7 +6,7 @@ This is the solution to Cucumber School training materials.
 Git:
 
     git clone https://github.com/sinhaabhinav1991/CucumberExamples.git
-    cd cucumber-java-skeleton
+    cd CucumberExamples
 
 Or simply [download a zip](https://github.com/sinhaabhinav1991/CucumberExamples/archive/master.zip) file.
 
